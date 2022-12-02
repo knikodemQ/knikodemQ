@@ -1,5 +1,5 @@
 ### Hi 👋
-
+Currently studying at AGH Kraków.
 
 -  [strona](https://knikodemq.github.io) 
 -  I’m currently working on :snake:
