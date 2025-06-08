@@ -1,5 +1,5 @@
 ### About me
-Hi! I'm a Computer Science and Intelligent Systems student at AGH University of Science and Technology in Kraków, Poland. I’m passionate about software development, AI & ML, and data engineering. I enjoy working across the full tech stack, from low-level systems to modern web and applications.
+Hi! I'm a Computer Science and Intelligent Systems student at AGH University of Science and Technology in Kraków, Poland. I’m passionate about software development, AI & ML, and data engineering. I enjoy working across the full tech stack, from low-level systems to modern web applications.
 
 ### 🔧 Interests
 
